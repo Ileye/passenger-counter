@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    text-align: center;
+    //background: #0a0001;
+}
+
+score {
+    background: #ffffff;
+    font-size: 19px;
+    color: #F94F6D;
+    width: 195px;
+    margin: 20px;
+   // position: bottom;
+    bottom: 10px;
+}
+
+h2 {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 195px;
+    margin: 20px;
+}
+
+.guestscore {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 195px;
+    margin: 20px;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+//button {
+    background: none;
+}
